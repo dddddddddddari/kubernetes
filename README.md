@@ -1,4 +1,5 @@
-![image](https://github.com/dddddddddddari/kubernetes/assets/90902523/330ab8cd-8eb4-4c0a-9a25-18526dc839dc)
+![image](https://github.com/dddddddddddari/kubernetes/assets/90902523/d5b75dd7-47c4-483b-85fb-9a9de6ee4932)
+
 
 ## minikube start --driver=docker
 ## minikube status 
