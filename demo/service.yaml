@@ -1,0 +1,11 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: counter2
+spec:
+  type: NodePort
+  selector:
+    app: counter
+  ports:
+    - port: 80
+      targetPort: 8082
